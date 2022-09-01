@@ -1,0 +1,68 @@
+@media (max-width: 480px) {
+    .section-p1 {
+        padding: 20px;
+    }
+
+    .main-header {
+        padding: 10px 30px;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+
+    h2 {
+        font-size: 32px;
+    }
+
+    .hero-section {
+        padding: 0 20px;
+        background-position: 60%;
+    }
+
+    .feature-section {
+        justify-content: space-between;
+    }
+
+    .feature-section-box {
+        flex-basis: 150px;
+        margin: 0 0 15px 0;
+    }
+
+    .product {
+        width: 100%;
+    }
+
+    .banner-cta-section {
+        height: 40vh;
+    }
+
+    .banner-cta-section h2 {
+        font-size: 24px;
+    }
+
+    .banner-deals1-container {
+        height: 40vh;
+        margin-bottom: 20px;
+    }
+
+    .banner-deals2-section {
+        padding: 0 20px;
+    }
+
+    .banner-deals2-container {
+        width: 100%;
+    } 
+
+    .newsletter-form {
+        width: 100%;
+    }
+
+    footer {
+        flex-direction: column;
+    }
+
+    .copy-div {
+        text-align: start;
+    }
+}
